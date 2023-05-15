@@ -22,5 +22,5 @@ if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(naviga
 }
 
 function not() {
-    alert("Você nem ta maluca de não aceitar, volte lá e clique no sim! :/")
+    alert("Você nem ta maluca de não liberar, volte lá e clique no sim! :/")
 }  
